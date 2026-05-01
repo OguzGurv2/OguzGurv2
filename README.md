@@ -17,6 +17,6 @@ My work spans modern web development and cross-platform mobile apps
 
 ### 📫 Contact
 
-- LinkedIn: https://www.oguzgur.com/
+- Website: https://www.oguzgur.com/
 
 ⭐ Always open to opportunities, collaborations, and interesting projects
