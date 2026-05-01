@@ -1,16 +1,71 @@
-## Hi there 👋
+## Hi, I'm Oguz 👋
 
-<!--
-**OguzGurv2/OguzGurv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Class BSc (Hons) Software Engineering Graduate  
+💻 Full-Stack Developer | Web, Mobile & IoT Systems  
 
-Here are some ideas to get you started:
+I build scalable, real-world applications with a strong focus on usability, performance, and clean architecture.  
+My work spans modern web development, cross-platform mobile apps, and IoT systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+**Frontend**
+- Next.js, TypeScript, React
+- HTML, CSS, JavaScript
+
+**Backend**
+- Node.js, Express.js
+- Python, Flask
+
+**Mobile**
+- Flutter (Dart)
+
+**Databases**
+- PostgreSQL, SQLite
+
+**Other**
+- IoT (ESP32, Arduino)
+- REST APIs, GraphQL
+- Git, Agile (Scrum)
+
+---
+
+### 🧠 What I Focus On
+
+- Building scalable full-stack applications using modern frameworks like Next.js  
+- Designing clean, maintainable architectures  
+- Developing secure systems (e.g. password managers)  
+- Creating real-time and IoT-integrated solutions  
+- Improving user experience through practical design decisions  
+
+---
+
+### 🛠️ Notable Projects
+
+- 🔐 Password Manager (Flutter)  
+  Secure credential storage with custom password generation  
+
+- 🌱 IoT Soil Monitoring System  
+  ESP32 + Flask server + Telegram bot for real-time alerts  
+
+- 🤖 Maths Quiz Discord Bot  
+  Interactive bot with solo play mode and dynamic question generation  
+
+---
+
+### 📈 Currently
+
+- Exploring scalable system design and backend architecture  
+- Improving expertise in Next.js & TypeScript  
+- Building production-ready portfolio projects  
+
+---
+
+### 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/oguz-gur/
+
+---
+
+⭐ Always open to opportunities, collaborations, and interesting projects
