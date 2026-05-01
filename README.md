@@ -15,24 +15,6 @@ My work spans modern web development, cross-platform mobile apps, and IoT system
 
 ---
 
-### 🧠 What I Focus On
-
-- Building scalable full-stack applications using modern frameworks like Next.js  
-- Designing clean, maintainable architectures  
-- Developing secure systems (e.g. password managers)  
-- Creating real-time and IoT-integrated solutions  
-- Improving user experience through practical design decisions  
-
-
----
-
-### 📈 Currently
-
-- Exploring scalable system design and backend architecture  
-- Improving expertise in Next.js & TypeScript  
-
----
-
 ### 📫 Contact
 
 - LinkedIn: https://www.oguzgur.com/
