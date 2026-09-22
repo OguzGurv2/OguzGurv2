@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Oğuz 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Full-Stack+Engineer;TypeScript+%C2%B7+React%2FNext.js+%C2%B7+Node.js%2FNestJS+%C2%B7+PostgreSQL;Marketplace+%C2%B7+EdTech+%C2%B7+FinTech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Full-Stack+Engineer;TypeScript+%C2%B7+React%2FNext.js+%C2%B7+Node.js%2FNestJS+%C2%B7+PostgreSQL;Marketplace+%C2%B7+EdTech+%C2%B7+FinTech" alt="Typing SVG" />
 </p>
 
 ---
