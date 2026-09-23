@@ -19,7 +19,7 @@ Based in Rotterdam, Netherlands — open to full-stack roles.
 
 ### 💼 Recent Work
 
-- **[mobilyu.com](https://mobilyu.com)** — Building a second-hand furniture marketplace end to end (NestJS/Prisma + Next.js); cut load times on the heaviest pages by two-thirds
+- **[mobilyu.com](https://mobilyu.com)** — Building a furniture marketplace end to end (NestJS/Prisma + Next.js); cut load times on the heaviest pages by two-thirds
 - **Emotion coaching LMS** — Leading a 3-person team; designed the architecture and own CI/CD and infrastructure
 - **In-app payment system** — Built and shipped to both stores (Flutter + Python) with server-side purchase verification, rate limiting and audit logging
 
