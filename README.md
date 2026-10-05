@@ -6,7 +6,7 @@
 
 ---
 
-Full-stack engineer with production experience across a marketplace, an EdTech LMS and a FinTech app's
+Full-stack engineer with production experience across a digital furniture marketplace, an EdTech LMS and a FinTech app's
 mobile payment system. I like owning features from database schema to production.
 First-Class Honours BSc in Software Engineering, University of Portsmouth.
 Based in Rotterdam, Netherlands — open to full-stack roles.
