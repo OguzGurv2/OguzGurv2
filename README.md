@@ -6,7 +6,7 @@
 
 ---
 
-Full-stack engineer with production experience across a marketplace, an EdTech LMS and a FinTech
+Full-stack engineer with production experience across a marketplace, an EdTech LMS and a FinTech app's
 mobile payment system. I like owning features from database schema to production.
 First-Class Honours BSc in Software Engineering, University of Portsmouth.
 Based in Rotterdam, Netherlands — open to full-stack roles.
@@ -20,8 +20,8 @@ Based in Rotterdam, Netherlands — open to full-stack roles.
 ### 💼 Recent Work
 
 - **[mobilyu.com](https://mobilyu.com)** — Building a furniture marketplace end to end (NestJS/Prisma + Next.js); cut load times on the heaviest pages by two-thirds
-- **Emotion coaching LMS Web App** — Leading a 3-person team; designed the architecture and own CI/CD and infrastructure
-- **In-app payment system for Proceedit Mobile App** — Built and shipped to both stores (Flutter + Python) with server-side purchase verification, rate limiting and audit logging
+- **Emotion coaching LMS Web App** — Leading a 3-person team; designed the architecture and own CI/CD and infrastructure, also front-end development.
+- **In-app payment system for Proceedit Mobile App** — Built the payment system that has server-side purchase verification, rate limiting and audit logging with Flutter and Python. Also, was responsible for CI/CD deployment and versioning to both app stores. 
 
 ### 📌 Projects
 
